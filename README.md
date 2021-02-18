@@ -9,4 +9,4 @@
 <img src="Images/FS-Codes.png" width="500" align="left"/>
 <p align="center">The particular combinatons of FS codes can invoke the Datapath to do particular micro-operations which can be used as part of a bigger instruction.</p>
 <p align="center">There are 15 types of micro-operations that the Datapath can complete, each being invoked by a particular FS code, and consequently a MF Select, G Select and H Select combination. </p>
-<p align="center">These micro-operations constitute the building blocks of bigger instructions and consequently are important to building programs. An example of an instruction that would use these micro-operations may be an N bit shift instruction which shifts a value by N bits.</p>
+<p align="center">These micro-operations constitute the building blocks of bigger instructions and consequently are important to building programs.</p>
